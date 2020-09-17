@@ -1,0 +1,51 @@
+[
+  
+    {
+      "title"    : "No Fit like the RuleFit",
+      "category" : "",
+      "tags"     : "Data Science, Machine Learning, Being Datum",
+      "url"      : "https://beingdatum.com/no-fit-like-the-rulefit/",
+      "date"     : "2020-06-04 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Point Biserial Correlation Coefficient",
+      "category" : "",
+      "tags"     : "Analytics Vidhya, Data Science, Statistics",
+      "url"      : "https://medium.com/analytics-vidhya/point-biserial-correlation-coefficient-b572fcad80aa",
+      "date"     : "2020-05-30 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Know Your Data",
+      "category" : "",
+      "tags"     : "Analytics Vidhya, Data Science, Statistics",
+      "url"      : "https://medium.com/analytics-vidhya/know-your-data-c1ed6ea32198",
+      "date"     : "2020-05-27 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Interpret Your Regression - II",
+      "category" : "",
+      "tags"     : "Towards Data Science, Machine Learning, Data Science",
+      "url"      : "https://towardsdatascience.com/interpret-your-regression-d5f93908327b",
+      "date"     : "2020-04-12 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Interpret your Regression - I",
+      "category" : "",
+      "tags"     : "Towards Data Science, Machine Learning, Data Science",
+      "url"      : "https://towardsdatascience.com/interpret-your-regressions-1-cae5c2f4c0f9",
+      "date"     : "2020-04-10 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Things to know before you make your 1st ML model",
+      "category" : "",
+      "tags"     : "Towards Data Science, Machine Learning, Data Science",
+      "url"      : "https://towardsdatascience.com/things-to-know-before-you-make-your-1st-ml-model-5ce48c9657f",
+      "date"     : "2020-01-21 00:00:00 +0530"
+    } 
+  
+]

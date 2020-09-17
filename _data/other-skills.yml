@@ -1,0 +1,11 @@
+- name: Public Speaking
+  percentage: 95
+  color: info
+
+- name: Content Writing
+  percentage: 80
+  color: danger
+
+- name: Mentoring
+  percentage: 90
+  color: success

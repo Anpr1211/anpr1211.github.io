@@ -1,0 +1,13 @@
+- name: Python
+  percentage: 90
+  color: danger
+
+- name: R
+  percentage: 80
+  color:
+
+- name: Data Analysis with MS Excel
+  percentage: 75
+  color: success
+
+
